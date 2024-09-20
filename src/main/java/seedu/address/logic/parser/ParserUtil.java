@@ -126,9 +126,8 @@ public class ParserUtil {
     /**
      * Parses a {@code String tag} into a Remark
      */
-    public static Remark parseRemark(String s) {
-        requireNonNull(s);
-        String trimmedRemark = s.trim();
-        return new Remark(trimmedRemark);
+    public static Remark parseRemark(String remarkString) {
+        requireNonNull(remarkString);
+        return new Remark(remarkString);
     }
 }

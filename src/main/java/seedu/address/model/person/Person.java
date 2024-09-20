@@ -35,13 +35,13 @@ public class Person {
                   Address address,
                   Remark remark,
                   Set<Tag> tags) {
-        requireAllNonNull(name, phone, email, address, tags);
+        requireAllNonNull(name, phone, email, address, remark, tags);
         this.name = name;
         this.phone = phone;
         this.email = email;
         this.address = address;
-        this.tags.addAll(tags);
         this.remark = remark;
+        this.tags.addAll(tags);
     }
 
     public Name getName() {
