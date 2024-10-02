@@ -9,9 +9,8 @@
         "project-team": "Project team",
         "alqasim-elyas-zuhair-a": "Alqasim Elyas Zuhair A",
         "nicholas-chan": "Nicholas Chan",
-        "zhao-yiheng": "Zhao Yiheng",
-        "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "sharon-soh": "Sharon Soh",
+        "zhao-yiheng": "Zhao Yiheng"
       },
       "headingKeywords": {}
     },
@@ -146,6 +145,14 @@
     {
       "src": "team/kaajinn.md",
       "title": "Nicholas Chan's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/sharonsoh.md",
+      "title": "Sharon Soh's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
