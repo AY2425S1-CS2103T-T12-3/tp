@@ -8,6 +8,7 @@
         "about-us": "About Us",
         "project-team": "Project team",
         "alqasim-elyas-zuhair-a": "Alqasim Elyas Zuhair A",
+        "yang-hanming": "Yang Hanming",
         "nicholas-chan": "Nicholas Chan",
         "sharon-soh": "Sharon Soh",
         "zhao-yiheng": "Zhao Yiheng"
@@ -137,6 +138,14 @@
     {
       "src": "team/alqasimelyaszuhaira.md",
       "title": "Alqasim Elyas Zuhair A's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/hm-yang1.md",
+      "title": "Yang Hanming's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
