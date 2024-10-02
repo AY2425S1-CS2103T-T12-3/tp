@@ -8,10 +8,10 @@
         "about-us": "About Us",
         "project-team": "Project team",
         "alqasim-elyas-zuhair-a": "Alqasim Elyas Zuhair A",
-        "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
+        "nicholas-chan": "Nicholas Chan",
+        "zhao-yiheng": "Zhao Yiheng",
         "jean-doe": "Jean Doe",
-        "zhao-yiheng": "Zhao Yiheng"
+        "james-doe": "James Doe"
       },
       "headingKeywords": {}
     },
@@ -138,6 +138,14 @@
     {
       "src": "team/alqasimelyaszuhaira.md",
       "title": "Alqasim Elyas Zuhair A's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/kaajinn.md",
+      "title": "Nicholas Chan's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
