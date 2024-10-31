@@ -115,6 +115,8 @@
         "listing-all-contacts-list": "Listing all contacts : list",
         "editing-a-contact-or-delivery-edit": "Editing a contact or delivery: edit",
         "locating-contacts-or-deliveries-by-name-find": "Locating contacts or deliveries by name: find",
+        "archiving-a-contact-or-delivery-archive": "Archiving a contact or delivery : archive",
+        "unarchiving-a-contact-or-delivery-unarchive": "Unarchiving a contact or delivery : unarchive",
         "deleting-a-contact-or-delivery-delete": "Deleting a contact or delivery : delete",
         "inspecting-a-contact-inspect": "Inspecting a contact : inspect",
         "clearing-all-entries-clear": "Clearing all entries : clear",
