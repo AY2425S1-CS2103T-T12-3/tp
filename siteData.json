@@ -116,7 +116,7 @@
         "editing-a-contact-or-delivery-edit": "Editing a contact or delivery: edit",
         "locating-contacts-or-deliveries-by-name-find": "Locating contacts or deliveries by name: find",
         "archiving-a-contact-or-delivery-archive": "Archiving a contact or delivery : archive",
-        "unarchiving-a-contact-or-delivery-unarchive": "Unarchiving a contact or delivery : unarchive",
+        "unarchive-a-contact-or-delivery-unarchive": "Unarchive a contact or delivery : unarchive",
         "deleting-a-contact-or-delivery-delete": "Deleting a contact or delivery : delete",
         "inspecting-a-contact-inspect": "Inspecting a contact : inspect",
         "clearing-all-entries-clear": "Clearing all entries : clear",
@@ -125,7 +125,8 @@
         "editing-the-data-file": "Editing the data file",
         "faq": "FAQ",
         "known-issues": "Known issues",
-        "command-summary": "Command summary"
+        "command-summary": "Command summary",
+        "glossary": "Glossary"
       },
       "headingKeywords": {}
     },
