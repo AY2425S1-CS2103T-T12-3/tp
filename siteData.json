@@ -117,6 +117,8 @@
         "locating-contacts-or-deliveries-by-name-find": "Locating contacts or deliveries by name: find",
         "archiving-a-contact-or-delivery-archive": "Archiving a contact or delivery : archive",
         "unarchive-a-contact-or-delivery-unarchive": "Unarchive a contact or delivery : unarchive",
+        "sorting-the-contacts-or-delivery-list-in-ascending-order-asort": "Sorting the contacts or delivery list in ascending order: asort",
+        "sorting-the-contacts-or-delivery-list-in-descending-order-dsort": "Sorting the contacts or delivery list in descending order: dsort",
         "deleting-a-contact-or-delivery-delete": "Deleting a contact or delivery : delete",
         "inspecting-a-contact-inspect": "Inspecting a contact : inspect",
         "clearing-all-entries-clear": "Clearing all entries : clear",
